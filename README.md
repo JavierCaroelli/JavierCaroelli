@@ -6,11 +6,8 @@
 :heavy_check_mark: I'm Ready to start a professional path. <br/>
 :mag_right: I'm looking for opportunities to collaborate in your projects or start a new one. <br />
 :battery: Exited to start!
-
 <br />
-
 <h3>For more info, I invite YOU to see:</h3>
-<br />
 <p>:book:<a href="https://javiercaroelli.github.io/">My portfolio</a> </p>
 <p>:blue_book:<a href="https://www.linkedin.com/in/federico-caroelli/">My LinkedIn</a></p>
 <br/>
