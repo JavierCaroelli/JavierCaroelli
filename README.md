@@ -12,6 +12,6 @@
 <p>:blue_book:<a target="_blank" href="https://www.linkedin.com/in/federico-caroelli/">My LinkedIn</a></p>
 <br/>
 <h4>Feel free to <br/>
- - send me an <a target="_blank" href="mailto:javiercaroelli@gmail.com">Email</a>
+ - send me an <a target="_blank" href="mailto:javiercaroelli@gmail.com">Email</a> <br />
  - talk to my <a target="_blank" href="https://t.me/JavierCaroelli">Telegram</a>
  </h4>
