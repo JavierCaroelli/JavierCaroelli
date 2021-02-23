@@ -3,9 +3,9 @@
 ### :rocket: In Feb 19, I got graduate from an Intensive FullStack Bootcamp :trophy:
 <br/>
 
-:heavy_check_mark: I'm Ready to start a professional path. <br/>
-:mag_right: I'm looking for opportunities to collaborate in your projects or start a new one. <br />
-:battery: Exited to start!
+:heavy_check_mark: I am ready to start with a professional environment . <br/>
+:mag_right: I am looking for opportunities, to join or start projects. <br />
+:battery: I am full of enthusiasm to work or improve my skills
 <br />
 <h3>For more info, I invite YOU to see:</h3>
 <p>:book:<a target="_blank" href="https://javiercaroelli.github.io/">My portfolio</a> </p>
