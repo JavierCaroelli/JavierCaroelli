@@ -11,4 +11,7 @@
 <p>:book:<a target="_blank" href="https://javiercaroelli.github.io/">My portfolio</a> </p>
 <p>:blue_book:<a target="_blank" href="https://www.linkedin.com/in/federico-caroelli/">My LinkedIn</a></p>
 <br/>
-<h4>Feel free to send me an <a target="_blank" href="mailto:javiercaroelli@gmail.com">Email</a></h4>
+<h4>Feel free to <br/>
+ - send me an <a target="_blank" href="mailto:javiercaroelli@gmail.com">Email</a>
+ - talk to my <a target="_blank" href="https://t.me/JavierCaroelli">Telegram</a>
+ </h4>
