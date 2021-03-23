@@ -1,27 +1,54 @@
 # 🙋‍♂️ Welcome to my PROFILE! <br />
 
+I'm Javier Caroelli, I'm a FullStack Web Developer who prefers FrontEnd but i always accepts new challenges.
+I live in Argentina with my couple. My main language is Spanish and in EFSET I got <strong>C1 Advance</strong> score in English.
+I completed the Civil Engineering career at 60%
+
 <br/>
 
 ## 🛠 Technology & Tools
 <br/>
 <p>
-<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
-<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
-<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
-<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React.js / React Native" height="25" />
-<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
+<img src="/icons/01 html.png" alt="HTML5 logo" title="HTML5" height="50" / >&nbsp
+<img src="/icons/02 css.png" alt="CSS logo" title="CSS" height="50" /> &nbsp
+<img src="/icons/03 js.png" alt="JS logo" title="JS" height="50" /> &nbsp
+<img src="/icons/04 react.png" alt="React logo" title="REACT" height="50" /> &nbsp
+<img src="/icons/05 .png" alt="Redux logo" title="REDUX" height="50" /> &nbsp
+<img src="/icons/07 postgresql.png" alt="Postgresql logo" title="PSQL" height="50" /> &nbsp
+<img src="/icons/06 github.png" alt="Gihub logo" title="GITHUB" height="50" /> &nbsp
+<img src="/icons/08 mongodb.png" alt="MongoDB logo" title="MDB" height="50" /> &nbsp
+<img src="/icons/14 android.png" alt="Ract Native logo" title="RN" height="50" /> &nbsp
 </p>
+
+<br/>
+
+### :books: Things to IMPROVE / LEARN :
+
+<p>
+<img src="/icons/11 tailwind.png" alt="Tailwind logo" title="TAILWIND" height="30" /> &nbsp
+<img src="/icons/12 bootstrap.png" alt="Bootstrap logo" title="BOOTSTRAP" height="30" /> &nbsp
+<img src="/icons/13 angular.png" alt="Angular logo" title="ANGULAR" height="30" /> &nbsp
+ <p/>
 
 
 <h3>For more info, I invite YOU to see:</h3>
-<p>:book:<a target="_blank" href="https://javiercaroelli.github.io/"> My portfolio</a> </p>
-<p>:blue_book:<a target="_blank" href="https://www.linkedin.com/in/federico-caroelli/"> My LinkedIn</a></p>
+<p>
+ <img src="/icons/09 githubio.png" href="https://javiercaroelli.github.io/" alt="GitHub io logo" title="GHIO" height="40" /> &nbsp
+ <a target="_blank" href="https://javiercaroelli.github.io/"> My portfolio</a>
+</p>
+<p>
+ <img src="/icons/10 linkedin.png" href="https://www.linkedin.com/in/federico-caroelli/" alt="LinkedIn logo" title="LINKEDIN" height="40" /> &nbsp
+ <a target="_blank" href="https://www.linkedin.com/in/federico-caroelli/"> My LinkedIn</a>
+</p>
+
 <br/>
-<h4>Feel free to <br/>
+
+### Feel free to
  - send me an <a target="_blank" href="mailto:javiercaroelli@gmail.com"> Email</a> <br />
  - talk to my <a target="_blank" href="https://t.me/JavierCaroelli"> Telegram</a>
  </h4>
+ 
+ <br/>
 
 :heavy_check_mark: I am ready to start with a professional environment . <br/>
 :mag_right: I am looking for opportunities, to join or start projects. <br />
