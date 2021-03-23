@@ -33,16 +33,16 @@ I completed the Civil Engineering career at 60%
 
 <h3>For more info, I invite YOU to see:</h3>
 <p>
- <a target="_blank" href="https://javiercaroelli.github.io/">
+ <a href="https://javiercaroelli.github.io/" target="_blank">
  <img src="/icons/09 githubio.png"  alt="GitHub io logo" title="GHIO" height="40" /> &nbsp
  </a>
- <a target="_blank" href="https://javiercaroelli.github.io/"> My portfolio</a>
+ <a href="https://javiercaroelli.github.io/" target="_blank"> My portfolio</a>
 </p>
 <p>
- <a target="_blank" href="https://www.linkedin.com/in/federico-caroelli/">
+ <a href="https://www.linkedin.com/in/federico-caroelli/" target="_blank">
  <img src="/icons/10 linkedin.png" href="https://www.linkedin.com/in/federico-caroelli/" alt="LinkedIn logo" title="LINKEDIN" height="40" /> &nbsp
  </a>
- <a target="_blank" href="https://www.linkedin.com/in/federico-caroelli/"> My LinkedIn</a>
+ <a href="https://www.linkedin.com/in/federico-caroelli/" target="_blank"> My LinkedIn</a>
 </p>
 
 <br/>
